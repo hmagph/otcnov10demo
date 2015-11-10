@@ -1,4 +1,4 @@
-# Example of an IBM Bluemix DevOps Services Toolchain integrated with Sauce Labs
+# Example of an IBM Bluemix DevOps Services Toolchain with test case (no integration)
 
 (work in progress)
 
@@ -6,13 +6,13 @@
 
 Give it a try! Click the button below to fork into IBM DevOps Services and deploy your own copy of this application on Bluemix, with a DevOps toolchain already configured and waiting for you to engage.
 
-[![Deploy To Bluemix](https://bluemix.net/deploy/button.png)](https://dev01.hub.jazz.net/deploy/index.html?repository=https://github.com/hmagph/text-to-speech-nodejs-with-saucelabs&otc=true) using DEV01
+[![Deploy To Bluemix](https://bluemix.net/deploy/button.png)](https://dev01.hub.jazz.net/deploy/index.html?repository=https://github.com/hmagph/text-to-speech-nodejs-with-saucelabs) using DEV01
 
-[![Deploy To Bluemix](https://bluemix.net/deploy/button.png)](https://beta3.hub.jazz.net/deploy/index.html?repository=https://github.com/hmagph/text-to-speech-nodejs-with-saucelabs&otc=true) using BETA3
+[![Deploy To Bluemix](https://bluemix.net/deploy/button.png)](https://beta3.hub.jazz.net/deploy/index.html?repository=https://github.com/hmagph/text-to-speech-nodejs-with-saucelabs) using BETA3
 
-[![Deploy To Bluemix](https://bluemix.net/deploy/button.png)](https://qa.hub.jazz.net/deploy/index.html?repository=https://github.com/hmagph/text-to-speech-nodejs-with-saucelabs&otc=true) using QA
+[![Deploy To Bluemix](https://bluemix.net/deploy/button.png)](https://qa.hub.jazz.net/deploy/index.html?repository=https://github.com/hmagph/text-to-speech-nodejs-with-saucelabs) using QA
 
-[![Deploy To Bluemix](https://bluemix.net/deploy/button.png)](https://hub.jazz.net/deploy/index.html?repository=https://github.com/hmagph/text-to-speech-nodejs-with-saucelabs&otc=true) using PROD
+[![Deploy To Bluemix](https://bluemix.net/deploy/button.png)](https://hub.jazz.net/deploy/index.html?repository=https://github.com/hmagph/text-to-speech-nodejs-with-saucelabs) using PROD
 
 ## Text to Speech Nodejs Starter Application
 
